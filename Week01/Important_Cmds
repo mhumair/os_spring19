@@ -1,0 +1,37 @@
+types of shells ...
+
+    bash 
+    
+    
+    
+cmds with arguments 
+
+ls // list directory  folders/files
+    -al .. -alh
+cd // change directory
+
+cd ../ | cd -
+
+cat // show contents of a file on console
+
+gcc // compile a .c file
+
+./a.out // to run the executable produced by the previous cmd
+
+kate // text editor 
+
+touch // used to create a file
+
+xdg-open // open a file as a seperate process to avoid hanging the current console
+
+bc // bash calculator
+
+sort // 
+
+wc // wordcount
+
+Redirection 
+
+Piping 
+
+Installation
