@@ -1,0 +1,16 @@
+cat < filename
+input redirection
+
+cat file1 > file2
+output redirection
+
+cat file1 >> file2
+output append+redirection
+
+cat file1 >& file2
+output & error redirection
+
+cat file1 >& file2
+append output & error redirection
+
+
